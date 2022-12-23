@@ -14,10 +14,15 @@ The other question that was asked is did the goals set have any bearing on the o
 My major challenge that I had was calculating the brackets and getting the chart to show the correct outcome to vs goals configuration. To get it to work, I used a pivot table to first pull down the goals based on brackets then the % Total of each outcome. From there a did a pivot chart to get to the right graphs. 
 
 ### Analysis of Outcomes Based on Launch Date 
-On the analysis for Outcomes Based on Launch date, we used the Parent Category for theater for all years 2009 - 2017. Based on what I go through there were particular months through the years that were better for launching a project than others. I found that there was more success with a project launched during the summer months than in the winter. May and June stood out as the best months to launch the projects overall. 
+On the analysis for Outcomes Based on Launch date, we used the Parent Category for theater for all years 2009 - 2017. Based on what I go through there were particular months through the years that were better for launching a project than others. I found that there was more success with a project launched during the summer months than in the winter. May and June stood out as the best months to launch the projects overall.
+
+![image](https://user-images.githubusercontent.com/119356389/209261295-0d17263e-9e19-4fcb-8c3d-af014e370ef1.png)
 
 ### Analysis of Outcomes Based on Goals
 Based on the data for Outcomes vs. fundraising goals that were set, I found that the fundraising goals for plays less than 5000 were more successful than those where the goal was set higher than 50,000. There seemed to be a higher fail rate for those plays. More interesting was that the fail rate for plays with a fundraising goal set between 45,000 and 49,000 was almost 100%. This is only when looking at the total of projects for Plays and not any other subcategory. The challenge is that there is not a complete look at all projects and their fundraising goals to get a big picture. 
+
+![image](https://user-images.githubusercontent.com/119356389/209261384-a21f0811-36e5-47cd-a349-3853131f5fce.png)
+
 
 ### Challenges and Difficulties Encountered
 Limitations of the data were that dimensions that were needed to get to some of the questions had to calculated or added. The challenge would be to make sure that the calculations and added data make sense to the information you are trying to gather and can be relatable.  Trying to bracket the goals using the count if function was a challenge in that I had to make sure my greater and less than signs limited the count to picking up in between the two data points. 
